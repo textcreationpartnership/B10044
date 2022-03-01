@@ -1,0 +1,909 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony concerning the life and death of William Sixmith, being sent with the following matter to London, in order to be made publick.</title>
+            <author>Sixmith, William, 1655 or 6-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10044</idno>
+            <idno type="OCLC"> 124064282</idno>
+            <idno type="STC">Wing S3923B</idno>
+            <idno type="STC">ESTC R184261</idno>
+            <idno type="EEBO-CITATION">124064282</idno>
+            <idno type="OCLC">ocn 124064282</idno>
+            <idno type="VID">192334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1858:8, 1641-1700 , 2916:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony concerning the life and death of William Sixmith, being sent with the following matter to London, in order to be made publick.</title>
+                  <author>Sixmith, William, 1655 or 6-1677.</author>
+                  <author>Sixmith, Bryan, d. 1679.</author>
+               </titleStmt>
+               <extent>p. [3]-27 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. 6 signed: Warington, the 20th of the 1st moneth, 1678 [bracket] Bruen Sixmith.</note>
+                  <note>P. 7-23 are poems signed variously William Sixmith or W.S.</note>
+                  <note>"A letter of William Sixmith to J.D.": p. 23-27.</note>
+                  <note>Wing attributes this to Bruen Sixmith with a publication date of 1677.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Swarthmore College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sixmith, William, 1655 or 6-1677 --  Early works to 1800.</term>
+               <term>Religious poetry, English --  17th century.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:192334:1" rendition="simple:additions"/>
+            <head>A <hi>Teſtimony</hi> concerning the <hi>Life</hi> and <hi>Death</hi> of <hi>William Sixmith,</hi> being ſent with the following Matter to <hi>London,</hi> in order to be made Pub<g ref="char:EOLhyphen"/>lick.</head>
+            <opener>
+               <salute>William Gibſon;</salute>
+            </opener>
+            <p>MY very dear and well-beloved Friend, the dear Salutation of my Life ſalutes thee in the moſt pure and deareſt Love, with which at this preſent my Heart is filled; and the Remembrance of thee in the Immortal Life, in and through which I have often been refreſhed by thee, and at this time have ſweet <g ref="char:V">Ʋ</g>nity with thee; and my very Soul is affected with thee in that ſpiritual Relation, in which I am perſwaded, that <hi>neither Heights nor Depths, Principalities nor Powers, things preſent nor things to come, ſhall be able to ſeparate us from that Love of God in Chriſt Jeſus.</hi>
+            </p>
+            <p>And ſo, having a Senſe upon my Spirit at this time, how the Lord God hath made thee an Inſtrument in his Hand by his Mighty Power, for the turning many from Darkneſs to Light, and from the Power of Satan unto God, amongſt whom my Son <hi>William Sixmith</hi> was one, who was touched and made ſenſible of the Lord's heavenly and bleſſed Power, which in thy Miniſtry did reach unto him, and it was effectual, as thou may'ſt underſtand by theſe his Writings, which I have ſent to thee for to peruſe; we found them ſcattered amongſt ſeveral other Papers in his Trunk ſeveral We<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks after his Death, and had I ſeen any convenient Oppertunity, would have ſent them to thee long ſince; for through thy Miniſtry was a Door of Hope opened in him, and the Love of God was ſhed abread
+<pb n="4" facs="tcp:192334:2"/>in his Heart, in which he deſired the <hi>Proſperity and Welfare of all People;</hi> and being I find freedom in my Spirit, ſhall a little ac<g ref="char:EOLhyphen"/>quaint thee how it was with him before this powerful and heavenly Viſitation. From his Childhood he was inclined to that which was good, and never that I know of did he ſeek to cover any thing that he did amiſs, by any excuſe, but would readily confeſs the Truth, though againſt himſelf; And I can truly ſay, I never knew him tell a Lye, either directly or indirectly to the day of his Death, nei<g ref="char:EOLhyphen"/>ther was he given unto thoſe Youthful Vanities that moſt young Peo<g ref="char:EOLhyphen"/>ple are Naturally inclined unto; and though at this time the Lords ſecret Arm of Power did preſerve him out of many Temptations, yet ſtill the Vail was over his underſtanding, and he was very ignorant of Gods Heavenly Power that converts the Soul, untill by the Teſtimony of the Spirit of Truth through thee he was awakened, which gave ſuch a certain ſound, that it did penetrate his very Heart, and his Soul was affected with the Vir<g ref="char:EOLhyphen"/>tue of Gods Heavenly Power which did out <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke a Raſor, and thy Words were to the Seed that was raiſed as ſweet as the Honey-Comb; and although his love was very dear unto all the Houſhold of Faith, yet did his love more abound and flow forth unto thee, then to many others: And in the time of his Sickneſs thou waſt of<g ref="char:EOLhyphen"/>ten in his remembrance; and the Night before he departed this Life he was refreſht in the remembrance of thee and ſpoke of thee, and of thy being with him, which in a Spiritual enſe might be; the Apoſtle ſaith, <hi>(Col. 2.5.) For though I be abſent in the Fleſh, yet am I with you in the Sp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ying and beholding your Or<g ref="char:EOLhyphen"/>der, and the ſtedfaſtneſs of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our Faith in Chriſt.</hi>
+            </p>
+            <p>In the beginning of his ſickneſs he did moſt cheerfully and willing<g ref="char:EOLhyphen"/>ly reſign up himſelf both Soul, Body and Spirit into the Hands of the Lord God, and would not have any thing to do with any Phyſi<g ref="char:EOLhyphen"/>cian, nor any Phyſick at all, but only a little Water for his Mouth and Throat, which were very Sore, which did him good; he ſome<g ref="char:EOLhyphen"/>times ſaying, that <hi>He was ſatisfied with the Lords love, and that he knew his Redeemer lived, which was able to reſtore him to his Health, if he pleaſed, and if not, he was contented.</hi> And in the time of his weakneſs we did perceive that the Spirit of Suppli<g ref="char:EOLhyphen"/>cation was in his Heart, and often was his Mouth filled with the
+<pb n="5" facs="tcp:192334:2"/>living Praiſes of the God of Heaven, whom his Soul loved; and he was very patient and quiet all the time of his Sickneſs, not in the leaſt ſhewing any diſcontent, but moſt-what of a very cheerful Countenance, and his Words were even as in the Time of his Health, till ſuch time as great Weakneſs came upon him, and the Pangs of Death ſeized on him. And a little before he departed, I being in another Room, he deſired I might be called, and when I came unto him, he ſet his Eyes upon me, and with a very Innocent Look gave me his Right Hand, and deſired <hi>I would not be Troubled,</hi> with other words which I did not underſtand, he ſpeaking ſo weakly, the Pangs of Death being upon him; and in a ſhort time after he laid down his Head in Peace, upon the Twenty Fourth Day of the Seventh-Moneth, <hi>1677.</hi> He was Twenty One Years and about Seven Moneths Old.</p>
+            <p>And in the time of his Health he was a Patern of Piety and a good Example to my Family, and to thoſe that were inwardly ac<g ref="char:EOLhyphen"/>quainted with him he was lowly; for indeed the Truth was precious to him, and the Company of thoſe that truly feared God was his De<g ref="char:EOLhyphen"/>light; for his Heart was affected with them; and indeed many ſuch did truly love him. And I know it was a Trouble to him if at any time Buſineſs ſhould ſo fall out to hinder him from any Meet<g ref="char:EOLhyphen"/>ing, where friends came together to Worſhip God in the Spirit &amp; in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Truth; for I know, it was his very Heart's Delight to be in ſuch M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ings; and I have good cauſe to believe, that he never thought the Time either Long or Tedious that he was in ſuch Exerciſe. And I do certainly know, that nothing did bring ſo much Grief and Trouble upon his Spirit, as thoſe that did make a Profeſſion of the Truth, &amp; yet walkt Diſorderly; and ſome ſuch he did often Reprove very ſharply, ſome by Word of Mouth, and others by Letter, which few knew of but thoſe it did concern: for indeed he was a very lowly and meek-spirited Young Man, and very Dutiful to his Parents, and would not neglect any Opportunity wherein he might be ſerviceable to the Truth, and a very Tender and Affectionate Carriage to his Brother and Siſters, and his Eye was continually over them for Good, and his Counſel and Advice to them at all times was,
+<pb n="6" facs="tcp:192334:3"/>to ſtir them up to <hi>Live in the Fear of God.</hi> And the laſt Paper that he writ upon the Truth's Account, was to <hi>John Dunbabin</hi> of <hi>Sauky,</hi> who had lent him a Book that <hi>John Cheney</hi> had written againſt the Truth, ſo when he had read the Book, he did return the Book back again to <hi>John Dunbabin,</hi> with the Letter, which I have alſo ſent thee, which thou mayſt read over at thy leiſure, and con<g ref="char:EOLhyphen"/>clude with the Remembrance of my deareſt Love, which is in Deed and in Truth to thee, thy Wife and Children, and to all that love the Truth, and walk in it,</p>
+            <closer>
+               <signed>Bruen Sixmith.</signed>
+               <dateline>Warington, <hi>
+                     <date>the 20th of the 1ſt Moneth, 1678.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poems">
+            <pb n="7" facs="tcp:192334:3" rendition="simple:additions"/>
+            <div type="poem">
+               <head>On Man.</head>
+               <l>HOW weak and poor a thing is feeble Man!</l>
+               <l>How Nothing is he in the beſt he can!</l>
+               <l>How hard a Matter its for him to find</l>
+               <l>A truly ſolid and a ſerious Mind!</l>
+               <l>To feel it centred down in the true Reſt,</l>
+               <l>Where nothing in the ſame can him Moleſt:</l>
+               <l>To feel it fixt and knit ſo cloſe to Him,</l>
+               <l>That neven can be Overcome by Sin:</l>
+               <l>Where th' Enemy no Entrance can Find,</l>
+               <l>O! there it is that I would have my Mind,</l>
+               <l>To feel it alwayes on a daily Watch,</l>
+               <l>Where then the Enemy can make no Breach.</l>
+               <l>This is a bleſſed State; thrice happy They,</l>
+               <l>That have attain'd unto this Bleſſed Day.</l>
+               <closer>
+                  <signed>William Sixmith.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>On theſe Times.</head>
+               <l>O Moſt unhappy Time that we live In!</l>
+               <l>Not only living but pleading for Sin</l>
+               <l>For term of Life; ſaying, <hi>That none is Free</hi>
+               </l>
+               <l>
+                  <hi>On this ſide th' Grave, nor never like to Be:</hi>
+               </l>
+               <l>Setting ſo much their Minds on Fading Things,</l>
+               <l>And Earthly Toyes and Vanities, which Brings</l>
+               <l>Them into ſuch a very Careleſs State,</l>
+               <l>They ſeek to purchaſe them at any Rate:</l>
+               <pb n="8" facs="tcp:192334:4" rendition="simple:additions"/>
+               <l>Their Precious Time they loſe, a Thing moſt Sad,</l>
+               <l>And to their own Deſtruction they are Led;</l>
+               <l>Satan Blindſolding them, they cannot See</l>
+               <l>The Snare that's ſaid; O moſt groſs Vanity!</l>
+               <l>To ſee that almoſt all men ſhould be Guiided</l>
+               <l>By th' ſubtil Serpent, and yet be Derided</l>
+               <l>And laught at (as it were) when they are Brought</l>
+               <l>Into his Snare, and they be ſurely Caught.</l>
+               <l>Ah! when the Bleſſed Spirit doth ceaſe Striving,</l>
+               <l>There is no Hope at th' Heavenly Reſt Arriving:</l>
+               <l>For there's a Time when th' Spirit ſtrives with Men;</l>
+               <l>Oh! happy will they be that anſwer Then</l>
+               <l>To all that it requires. forth with Obeying,</l>
+               <l>And not conſult with Fleſh and Blood in Saying,</l>
+               <l>
+                  <hi>O Lord, what thou commandſt I cannot Do;</hi>
+               </l>
+               <l>
+                  <hi>The Thing is hard to Reap, and not to Sow.</hi>
+               </l>
+               <l>Oh, fooliſh Man! who doſt at randum Talk,</l>
+               <l>Charging him falſly; for thou doſt not Walk</l>
+               <l>According to thy Knowledge, but doſt Run</l>
+               <l>In thy own Way, and wilt not hear his Son,</l>
+               <l>Which doth in ſecret Check, Reprove, Chaſtize,</l>
+               <l>And ſweeps away the Refuge of all Lyes:</l>
+               <l>For he not only ſhews thee what is Good,</l>
+               <l>But cl nſes thee from Evil with his Blood.</l>
+               <l>O Man! conſider then what thou art Doing;</l>
+               <l>Conſider with thy ſelf where thou art Going:</l>
+               <l>For as in this vain World thou now doſt Live,</l>
+               <l>Thou in the World to come Account muſt Give,</l>
+               <l>Of Actions that are done in th' Body Here,</l>
+               <l>As they be Good or Bad they muſt Appear;</l>
+               <l>According unto them thou doom muſt Have,</l>
+               <l>Repent therefore before thou go to th' Grave;</l>
+               <l>For as the Tree doth fall, ſo it doth Lie:</l>
+               <l>Examine well thy ſelf therefore and Try</l>
+               <l>How it doth ſtand betwixt thee and thy God,</l>
+               <l>And dread his Name, leſt that thou feel his Rod</l>
+               <pb n="9" facs="tcp:192334:4" rendition="simple:additions"/>
+               <l>Here on the Earth, and in the other World,</l>
+               <l>Into Everlaſting Burnings thou be Hurl'd;</l>
+               <l>Whenas thou haſt receiv'd that Sentence Paſt.</l>
+               <l>Of <hi>Go thou Curſed, into Hell thou muſt;</hi>
+               </l>
+               <l>Where there is Weeping and Gnaſhing of Teeth,</l>
+               <l>And out of it to thee there's no Relief:</l>
+               <l>But if that thou doſt walk as thee Becomes,</l>
+               <l>Thou ſhalt be numbered amongſt the Sons</l>
+               <l>Of great <hi>Jehovah</hi> when that thou doſt Dye,</l>
+               <l>And things that are Coeleſtial ſhalt Enjoy,</l>
+               <l>And ſit in Heavenly Places, where there Rings</l>
+               <l>Sweet Halelujah's to the King of Kings.</l>
+               <closer>
+                  <signed>W. S.</signed>
+                  <date>Octob. 16. 1674.</date>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>HOW difficult a Task it is to Find</l>
+               <l>A ſolid, ſerious and a ſtayed Mind!</l>
+               <l>The Enemy of Man doth go About</l>
+               <l>With ſuch cunning Device to draw it Out;</l>
+               <l>Either preſenting Objects to the Eye,</l>
+               <l>And by the ſame ſeeks for to Deſtroy</l>
+               <l>Their very Life, ſo cauſing it to Run</l>
+               <l>So far therein that they are quite Undone:</l>
+               <l>Or elſe in drawing them into the Earth,</l>
+               <l>Perſwading them unto a little Mirth,</l>
+               <l>Saying, <hi>They ought not alwayes be ſo Sad;</hi>
+               </l>
+               <l>
+                  <hi>For it doth ſtupifie, and maketh Mad.</hi>
+               </l>
+               <l>O! theſe and ſuch like Snares the Devil Layes,</l>
+               <l>Whereby the Panting Soul he oft Betrayes.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb n="10" facs="tcp:192334:5" rendition="simple:additions"/>
+               <l>VVHO ſhall they call on to aſſiſt their Quill?</l>
+               <l>One of the Muſes? No, let them be ſtill</l>
+               <l>And meditate, that do deſire to Sing</l>
+               <l>Praiſes and Halelujahs to their King,</l>
+               <l>The Righteous King, Redeemer and Creator,</l>
+               <l>The only God, the Lord, and bleſſed Maker.</l>
+               <l>But as they contemplate, methinks they Hear</l>
+               <l>Something in ſecret that ſaith, <hi>Lend an Ear</hi>
+               </l>
+               <l>
+                  <hi>To me, and hear the words that I do Say,</hi>
+               </l>
+               <l>
+                  <hi>And that which I command, do thou Obey.</hi>
+               </l>
+               <l>And except they attend unto this Word,</l>
+               <l>There's none can ſing true Praiſes to the Lord:</l>
+               <l>Its thoſe that are redeem'd by <hi>Sion</hi>'s King;</l>
+               <l>They, they alone can living Praiſes Sing:</l>
+               <l>Thoſe that in his Cauſe would their Life lay Down,</l>
+               <l>And ſeek his Glory, and not ſeek their Own:</l>
+               <l>Thoſe that are taught and guided by his Spirit,</l>
+               <l>Its thoſe can ſing, Its thoſe that do Inherit</l>
+               <l>A glorious Crown; to thoſe he doth Perform</l>
+               <l>His bleſſed Promiſes: Its thoſe Adorn</l>
+               <l>The Goſpel of the Lord; and it is Thoſe</l>
+               <l>That fight God's Battels with them that Oppoſe:</l>
+               <l>Thoſe give unto the Hungry Meat,</l>
+               <l>Of that which God gave them to Eat;</l>
+               <l>Spiritual Bread to feed the inward Man,</l>
+               <l>To nouriſh in there's nothing elſe that Can.</l>
+               <l>So th' Wicked cannot ſing, no let them Mourn,</l>
+               <l>And weep and wail; let them themſelves Adorn</l>
+               <l>With Sack-cloth and with Aſhes; let them ly</l>
+               <l>Groveling on th' Earth, and know the Miſery</l>
+               <l>That doth attend on all in that Eſtate;</l>
+               <l>Let them not ſleep nor ſlumber; let them Wait</l>
+               <l>To know a true Repentance in them Wrought,</l>
+               <l>And know that of themſelves they can do nought.</l>
+               <pb n="11" facs="tcp:192334:5"/>
+               <l>And when they'r Senſible of their Condition,</l>
+               <l>And on their Hearts there comes a true Contrition,</l>
+               <l>With Sighs and Groans unto the Lord, <hi>That He</hi>
+               </l>
+               <l>
+                  <hi>Would eaſe them out of their Calamitie:</hi>
+               </l>
+               <l>O! then the Lord in his great Mercy Pleaſeth</l>
+               <l>To ſhew them Comfort, and their Minds he Eaſeth,</l>
+               <l>In giving them the Knowledge of his Son,</l>
+               <l>Or elſe their Sin-ſick Souls had been Undon;</l>
+               <l>Shewing its he alone that works Within,</l>
+               <l>And no one elſe there is can cleanſe from Sin:</l>
+               <l>And though that it ſeem little, give an Ean</l>
+               <l>To it, and it will ſhew what's ſin moſt Clear:</l>
+               <l>It will not only ſhew thee what is Evil,</l>
+               <l>But as kept to may overcome the Devil.</l>
+               <l>Its they who keep to it that truly Sings</l>
+               <l>Everlaſting Praiſes to the King of Kings.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>Opinions.</head>
+               <l>O How is Man degenerated Now!</l>
+               <l>Not only loſt the Power, but Form Too,</l>
+               <l>In which the primitive Fathers were Found;</l>
+               <l>The Words of whom they call their <hi>Rule</hi> and <hi>Ground</hi>
+               </l>
+               <l>On which they build, yet they do walk contrary,</l>
+               <l>And all their Structures much from theirs do Vary.</l>
+               <l>There's ſome make Chriſt the Chief and Corner Stone,</l>
+               <l>And preach, <hi>None knows the Father but the Son,</hi>
+               </l>
+               <l>
+                  <hi>And he to whom the Son doth him Reveal;</hi>
+               </l>
+               <l>
+                  <hi>What Knowledge elſe they have doth nought Avail:</hi>
+               </l>
+               <l>So they inſtruct all men to come to Him,</l>
+               <l>VVho purifies and purgeth ev'ry Sin.</l>
+               <l>But others teach, that <hi>Revelation's Ceaſt,</hi>
+               </l>
+               <l>VVhich doth conclude, that <hi>Knowing God's Decreaſt;</hi>
+               </l>
+               <pb n="12" facs="tcp:192334:6" rendition="simple:additions"/>
+               <l>And call the Scriptures <hi>Rule of ſaving Grace,</hi>
+               </l>
+               <l>Whilſt they in Wickedneſs to men preach Peace:</l>
+               <l>When Scripture (without Spirit) a dead Letter,</l>
+               <l>Without the ſame it maketh no man Better:</l>
+               <l>The Letter kills, the Spirit giveth Life;</l>
+               <l>This as come to redeemeth out of Striſe:</l>
+               <l>This is the Supream Rule, who walk Hereby,</l>
+               <l>Men's Meanings of the Scriptures they can Try:</l>
+               <l>For none the things of God do truly Know,</l>
+               <l>Put as his Spirit doth reveal and Show.</l>
+               <l>Some would God's Love unto a few Confine,</l>
+               <l>And Reprobate the reſt, and ſo in Fine</l>
+               <l>Quite paſs them by in that moſt ſad Condition,</l>
+               <l>Where no Recovery is, to wit, Perdition;</l>
+               <l>Soothing the other in that Confidence,</l>
+               <l>
+                  <hi>They ne're ſhall fall from Grace:</hi> O vain Pretence!</l>
+               <l>Saying, <hi>Whom God once loves, he loves Forever,</hi>
+               </l>
+               <l>
+                  <hi>Although they ſin, yet he for ſakes them Never:</hi>
+               </l>
+               <l>When God of one Blood hath made all Mankind,</l>
+               <l>And he ſo loved the World, that he Reſign'd</l>
+               <l>His Son to reconcile them all. if They</l>
+               <l>Truly believe in him who is the Way.</l>
+               <l>For Chriſt hath taſted Death for every Man.</l>
+               <l>For he through Death deſtroy'd Death's Power for Man.</l>
+               <l>The Wicked's Death the Lord doth not Deſire,</l>
+               <l>But that he turn from Sin he doth Require.</l>
+               <l>He that committeth ſin doth fall from Grace;</l>
+               <l>And in committing it he breaks his Peace:</l>
+               <l>Grace joyns not with him in his ſinful Deed;</l>
+               <l>Grace doth reprove him if he will take Heed:</l>
+               <l>Grace takes no part with Man when he doth Sin;</l>
+               <l>Man diſobeys it when he falls Therein:</l>
+               <l>When Man acts that which doth polute the Mind,</l>
+               <l>He over-runs Grace, and leaveth Grace Behind:</l>
+               <l>This is the Word behind that ſhews the Way,</l>
+               <l>That calls, <hi>Walk here whenas men go Aſtray.</hi>
+               </l>
+               <pb n="13" facs="tcp:192334:6" rendition="simple:additions"/>
+               <l>Grace truly leads, its Grace that ſhould Conduct;</l>
+               <l>This is man's Guide, and this would man Inſtruct:</l>
+               <l>If man Reſiſt not and gain ſay the Same,</l>
+               <l>In perfect Holineſs 'twould man Retain:</l>
+               <l>For as 'twas ſaid, <hi>My Grace ſufficient is,</hi>
+               </l>
+               <l>They that obey it cannot walk amiſs.</l>
+               <closer>
+                  <signed>W. S.</signed>
+                  <date>1674.</date>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>REmember thy Creator in thy Youth,</l>
+               <l>And let thy Mind be ſtill inclin'd to Truth;</l>
+               <l>Which when thou findſt, be ſure thou it Obey,</l>
+               <l>And 'twill conduct and guide thee in the Way:</l>
+               <l>That will thee lead unto Eternal Life,</l>
+               <l>And bring thee out of Enmity and Strife:</l>
+               <l>'Tis as a Light ſhining in a dark place,</l>
+               <l>Until the Day dawn and Day-light Encreaſe.</l>
+               <l>This is the chief Pearl, therefore do it Prize;</l>
+               <l>Do not this Burden, but let it Ariſe:</l>
+               <l>For all that's contrary Truth alone muſt Judge,</l>
+               <l>Which will not ſuffer ſin in thee to Lodge:</l>
+               <l>For this will ſeperate all Good from Evil,</l>
+               <l>And alſo quench the Arrows of the Devil:</l>
+               <l>When thou in Trouble art, then hither Fly,</l>
+               <l>And thou will find it a chief Remedy.</l>
+               <l>Let not time ſlip, but ſee that thou Obey</l>
+               <l>Its Counſel alwayes, whilſt thou haſt a Day.</l>
+            </div>
+            <div type="poem">
+               <head>Keep the Watch.</head>
+               <l>A Watchful State is the moſt bleſſed State,</l>
+               <l>To wait on him that did all Men Create;</l>
+               <pb n="14" facs="tcp:192334:7" rendition="simple:additions"/>
+               <l>To feel feel him working in the inward Part,</l>
+               <l>Searching and trying all things in the Heart;</l>
+               <l>Binding the Strong Man that the Houſe did Keep,</l>
+               <l>Spoiling his Goods, caſting him out, to Sweep</l>
+               <l>Each Corner, and to make the whole Heart Clean,</l>
+               <l>That none of his old Dregs therein Remain:</l>
+               <l>And then when it is purg'd and cleans'd from Sin;</l>
+               <l>O! then its his good will to dwell Therein:</l>
+               <l>That he may lead and guide the Soul Aright;</l>
+               <l>And then to walk therein he takes Delight.</l>
+               <l>So that, I ſay, it is a bleſſed State</l>
+               <l>To wait on him that did their Souls Create;</l>
+               <l>To feel him working in his mighty Power,</l>
+               <l>Reſiſting Satan in the tempting Hour.</l>
+               <l>For all that wait on him, feel his Protection,</l>
+               <l>And in the ſtilneſs feel him give Direction:</l>
+               <l>Reproving and Chaſtizing all that's nought,</l>
+               <l>Not in Deeds only, but in Words and Thought.</l>
+               <l>And ſuch are thoſe he ſeeks to worſhip Him,</l>
+               <l>That do not yield to any thing that's Sin:</l>
+               <l>But when the Tempter comes them for to Try,</l>
+               <l>Unto the bleſſed Spirit ſtill they Fly:</l>
+               <l>For he's a Tower, a Shield, a Fence to Thoſe</l>
+               <l>That wait ſtill in his Spirit, to Oppoſe</l>
+               <l>The Eneny, which as a Roa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g Lion,</l>
+               <l>Would thoſe devour that tra<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> towards <hi>Sion.</hi>
+               </l>
+               <l>So if the Watch be kept, they cannot Stray,</l>
+               <l>Nor to the Tempter will they be a Prey!</l>
+               <l>But if the Watch be down, Temptations Com,</l>
+               <l>And by the Tempter they are Over-run.</l>
+               <closer>
+                  <signed>W. S.</signed>
+                  <date>3d Moneth, 1675.</date>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb n="15" facs="tcp:192334:7" rendition="simple:additions"/>
+               <head>To the Sinner.</head>
+               <l>REnew thy Grief, O man, renew thy Care;</l>
+               <l>Lift up thy Voice aloud, and do not ſpare</l>
+               <l>For to bewail thy precious time Miſpent;</l>
+               <l>O! cry, and ceaſe not; O Lament, Lament!</l>
+               <l>O! let the Eccho of thy Voice Rebound,</l>
+               <l>And let the Nations with thy Mourning Sound:</l>
+               <l>For ſad's thy ſtate, and miſerable Wo</l>
+               <l>Doth thee attend, although thou doſt not Know</l>
+               <l>How ſuddenly it haſtens on thy Head,</l>
+               <l>Thy Heart being har<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned and thy dull Mind fed,</l>
+               <l>With airy Vanities and luſtful Pleaſures;</l>
+               <l>Such fading F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncies are thy only Treaſures.</l>
+               <l>Therefore Repent, whilſt thou haſt yet a Day;</l>
+               <l>For it is ready to be paſt Away.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>Contemplation.</head>
+               <l>O How delectable is Contemplation!</l>
+               <l>It far ſurpaſſeth all vain Recreation:</l>
+               <l>Its more delightſome far than all vain Toys,</l>
+               <l>And far excelleth all baſe worldly Joys;</l>
+               <l>For here the Soul doth true Contentment Find,</l>
+               <l>Here, here alone's true Solace to the Mind:</l>
+               <l>Although it feel the Judgment poured Down,</l>
+               <l>Yet in the ſame there is a ſight of th' Crown,</l>
+               <l>That thoſe enjoy that perſevere to th' End;</l>
+               <l>They in the Judgment feel the Vail to Rend,</l>
+               <pb n="16" facs="tcp:192334:8" rendition="simple:additions"/>
+               <l>And th' Underſtanding ſo to open Clear,</l>
+               <l>Where God's great Myſteries to them Appear:</l>
+               <l>For he doth purifie, and doth make Clean</l>
+               <l>His Children dear, and in his Way doth Train</l>
+               <l>Them, in that Path which pleaſant is to Him,</l>
+               <l>Whoſe Bodies are his Temples, cleans'd from Sin.</l>
+               <l>Its thoſe who by true Contemplation Find</l>
+               <l>Retiring in wardly a Stay to th' Mind.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>SHall Life or Death, things preſent or to Come</l>
+               <l>Again intangle, again Overcome</l>
+               <l>Religious Perſons, who are Sojourning</l>
+               <l>After <hi>Cannan</hi>'s Land, and Travelling</l>
+               <l>Heaven-wards? Or ſhall any fading Joy</l>
+               <l>Graſp ſo the Mind as it ſhould not Rely</l>
+               <l>And fixed be on Chriſt their Strength and Stay?</l>
+               <l>No, no; for he's the true and living Way.</l>
+               <l>Darkneſs and Death ſubdued are by Him;</l>
+               <l>Youth's here depending overcome their Sin.</l>
+               <l>Ever bleſſed are they who in Chriſt Abide,</l>
+               <l>They happy are, and reſt Unterrify'd,</l>
+               <closer>
+                  <signed>W. S.</signed>
+                  <date>1677.</date>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>Loſs of Time.</head>
+               <l>VVHat bitter Lamentation ſhall I Make!</l>
+               <l>Or what Bewailing Speeches ſhall I Take</l>
+               <l>Now to deplore my Time I have Miſpent!</l>
+               <l>O Dear Heart! why? O! why was I Content</l>
+               <l>Thus, thus to let it ſlip and ſlide Away,</l>
+               <l>Not truly it regarding day by Day?</l>
+               <pb n="17" facs="tcp:192334:8" rendition="simple:additions"/>
+               <l>O! how am I enſnared in Vanity,</l>
+               <l>And plunged deep into Iniquity!</l>
+               <l>For want of keeping up a daily Watch,</l>
+               <l>The Enemy away my Mind doth Snatch,</l>
+               <l>Hurrying it into Terreſtrial Things,</l>
+               <l>Which Anguiſh, Sorrow, Grief and Trouble Brings:</l>
+               <l>But as the Watch is kept, O! I feel Power,</l>
+               <l>Which doth preſerve me in the Tempting Hour.</l>
+               <l>Great God of Heaven and Earth, keep thou my Watch,</l>
+               <l>And then no Hurt unto my Soul can Reach.</l>
+               <l>O! thou Preſerver of a panting Soul,</l>
+               <l>To thee I cry, to thee I do Condole</l>
+               <l>My miſerable ſtate, to thee its Known;</l>
+               <l>None elſe can help but thee, but thee Alone:</l>
+               <l>Do thou adminiſter what thou thinkſt Good,</l>
+               <l>Alſo do thou preſerve me from the Flood</l>
+               <l>Of th' Enemy, which he doth oft pour Forth</l>
+               <l>Againſt thy Seed, to deſtroy the true Birth.</l>
+               <l>O great <hi>Jehovah!</hi> do thou me Preſerve</l>
+               <l>In Truth and Uprightneſs, that I may Serve</l>
+               <l>Thee in my Day; O! keep me freſh and Green,</l>
+               <l>And purge me thorowly; let not Remain</l>
+               <l>That thing which doth thine Holineſs Offend:</l>
+               <l>O! I entreat thee (Lord) be pleas'd to Lend</l>
+               <l>An Ear unto my Cry, that ſo I May</l>
+               <l>Sing Halelujah to thee in my Day.</l>
+               <closer>
+                  <signed>W. S.</signed>
+                  <date>
+                     <hi>The 5th of the 5th Moneth,</hi> 1675.</date>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>For the Letter-Learned.</head>
+               <l>IN building <hi>Babel</hi> their Confuſion Came,</l>
+               <l>In which unto this day they ſtill Remain:</l>
+               <pb n="18" facs="tcp:192334:9" rendition="simple:additions"/>
+               <l>They built it Outwardly in dayes by Paſt,</l>
+               <l>But Inwardly they build it now as Faſt:</l>
+               <l>Their Outward Language then Confuſed Was;</l>
+               <l>Now Inwardly they ſuffer greater Loſs.</l>
+            </div>
+            <div type="poem">
+               <head>A Wounded Conſcience who can bear?</head>
+               <l>O Dear! how grievous is a wounded Mind!</l>
+               <l>How full of Wo! moſt miſerable Kind</l>
+               <l>Of Torment! unexpreſſible Condition</l>
+               <l>Of Miſery! Nothing but ſad Contrition</l>
+               <l>Doth them attend, and woful Lamentation</l>
+               <l>Is preſent with them alwayes in that Station:</l>
+               <l>Bitter bewailing Speeches do Attend</l>
+               <l>Their deepſetcht-Sighs and Groans, which they do Send</l>
+               <l>Forth from a troubled Breaſt, which doth Rebound,</l>
+               <l>And ſometimes eccho with their mournful Sound.</l>
+               <l>Q. <hi>From whence proceeds this grievous Wound of Mind?</hi>
+               </l>
+               <l>
+                  <hi>What's the efficient Cauſe that hath Enclin'd</hi>
+               </l>
+               <l>
+                  <hi>The Heart to Sorrow and ſuch ſad Contrition,</hi>
+               </l>
+               <l>
+                  <hi>And hath involv'd it in this ſad Condition,</hi>
+               </l>
+               <l>
+                  <hi>That doth attend it in this diſmal Station,</hi>
+               </l>
+               <l>
+                  <hi>Whereby its forc't to take up Lamentation,</hi>
+               </l>
+               <l>
+                  <hi>And be thus entertain'd in Miſery,</hi>
+               </l>
+               <l>
+                  <hi>With Sighs and Groans inflead of Melody?</hi>
+               </l>
+               <l>
+                  <hi>A.</hi> Sin is the Radix from whence doth Proceed</l>
+               <l>Such Grief of Mind; it is for want of Heed</l>
+               <l>And keeping up the Watch, it enters In;</l>
+               <l>Its this alone, its this defiles Within;</l>
+               <l>Its this corrupts, its this that is the Foe,</l>
+               <l>That cauſeth Sorrow, and that bringeth Woe.</l>
+               <l>And this deplorable State being Known,</l>
+               <l>How can they chuſe but weep, and ſigh, and Groan?</l>
+               <l>Since the Devices of the Enemy</l>
+               <l>Have over-whelm'd poor Man in Miſery.</l>
+            </div>
+            <div type="poem">
+               <pb n="19" facs="tcp:192334:9" rendition="simple:additions"/>
+               <l>OH! how is Man apoſtatiz'd ſince Firſt</l>
+               <l>The Lord created him! And how Accurſt</l>
+               <l>Is Man become in diſobeying Him,</l>
+               <l>Who did create him pure and without Sin!</l>
+               <l>For in his own Image he Man did Make,</l>
+               <l>And then to do him good Delight did Take:</l>
+               <l>Alſo in Paradiſe he did him Place,</l>
+               <l>And to him Wiſdom daily did Encreaſe:</l>
+               <l>But th' ſubtil Serpent with his fair Pretence,</l>
+               <l>The Mind going out, on him got Influence;</l>
+               <l>Drawing it more out from the great Creator;</l>
+               <l>And with enticing words began to Flatter,</l>
+               <l>Under a colour <hi>he ſhould be more Wiſe</hi>
+               </l>
+               <l>
+                  <hi>Than God had made him;</hi> even thus with Lyes</l>
+               <l>He loſt the Image of his Lord and Maker,</l>
+               <l>And of the Devil Likeneſs' came Partaker.</l>
+            </div>
+            <div type="poem">
+               <head>Meditation.</head>
+               <l>OH! What doth all the World Avail,</l>
+               <l>Or all the Toys Therein?</l>
+               <l>Nothing at all; for they do Seal</l>
+               <l>And fould up man in Sin.</l>
+               <l>What Troubles do attend this Life,</l>
+               <l>What Grief, what Care, what Toils!</l>
+               <l>And little elſe there is but Strife</l>
+               <l>With them that in Earth Moils;</l>
+               <l>Their Minds and Thoughts being Employ'd</l>
+               <l>In ſuch Terreſtrial Things,</l>
+               <l>Which ought not ſo to be Enjoy'd,</l>
+               <l>Being it Trouble Brings.</l>
+               <pb n="20" facs="tcp:192334:10" rendition="simple:additions"/>
+               <l>But he that would releaſed Be</l>
+               <l>From this Sorrow and Pain,</l>
+               <l>Muſt know himſelf from Sin ſet Free,</l>
+               <l>And know it daily Slain:</l>
+               <l>But he that this doth come to Know,</l>
+               <l>Muſt know it wrought Within:</l>
+               <l>For all that's good, from Chriſt doth Flow;</l>
+               <l>None elſe can cleanſe from Sin.</l>
+               <l>Beſides, the Scripture doth Record,</l>
+               <l>That he his Grace would Send;</l>
+               <l>And other Writings do Accord,</l>
+               <l>That he doth put an End</l>
+               <l>To Sin, in all thoſe that are Led</l>
+               <l>And guided by his Spirit;</l>
+               <l>They by his gracious Word are Fed,</l>
+               <l>So true Riches Inherit.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>MOſt heavenly and thrice bleſſed happy State</l>
+               <l>Is that in which the Lord did Man Create;</l>
+               <l>Lovely it was, lovely it doth Appear;</l>
+               <l>Long'd for it is, Love ſhines in it ſo Clear;</l>
+               <l>Even the Lord's great Love flow'd forth to Him</l>
+               <l>Continually, until the Man of Sin</l>
+               <l>Enſnared him with a Pretence, a Lye;</l>
+               <l>Night then came over, he to Truth did Dye.</l>
+               <l>Though God made man ſo Pure, ſo Chaſt, ſo Clean,</l>
+               <l>In Sin he's plung'd, he is defil'd and Slain.</l>
+               <l>O that our God ſhould ſtill ſuch Pity Take!</l>
+               <l>He yet loves Man, Man whom he did Create:</l>
+               <l>Nothing's too dear, he ſent his only Son,</l>
+               <l>So to redeem loſt Man, that was Undon.</l>
+               <l>O! bleſſed are they who in Chriſt Believe,</l>
+               <l>Not letting down their Watch, them he Relieves.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb n="21" facs="tcp:192334:10" rendition="simple:additions"/>
+               <head>An Epiſtle.</head>
+               <opener>
+                  <salute>SISTER;</salute>
+               </opener>
+               <l>MY Love ſalutes thee in the precious Truth,</l>
+               <l>Deſiring thou adorn'd may be in Youth</l>
+               <l>Therewith; for it is the beſt Ornament;</l>
+               <l>Perfumes by far have not ſo ſweet a Scent;</l>
+               <l>Of which the Lord hath given thee a Meaſure,</l>
+               <l>Which far tranſcendeth all Terreſtrial Treaſure:</l>
+               <l>To which ſink down, for it is plac'd Within,</l>
+               <l>And never doth conſent to any Sin:</l>
+               <l>No Snare nor Trap the Enemy can Hide,</l>
+               <l>But thou'lt it ſee, whilſt thou doſt here Abide.</l>
+               <l>Stand ſtedfaſt here, and let it be thy Station,</l>
+               <l>And in his Power thou'lt o'recome Temptation.</l>
+               <l>With this let all thy Actions ſeaſon'd Be;</l>
+               <l>For in the ſame there's true Felicitie.</l>
+               <l>And above all things ſee thou keep thy Watch,</l>
+               <l>That ſo the Enemy may make no Breach:</l>
+               <l>But if the Watch be down, thou art O'recome</l>
+               <l>By all Temptations, and haſt loſt the Sum</l>
+               <l>And Subſtance of all Good; therefore take Heed</l>
+               <l>And wait therein, if that thou wouldſt be Freed</l>
+               <l>From the Entanglements of th' Enemy;</l>
+               <l>For truly elſe he may thee much Annoy.</l>
+               <l>So at this time I do bid thee Farewel,</l>
+               <l>Deſiring that we both in Truth may Dwell.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb n="22" facs="tcp:192334:11" rendition="simple:additions"/>
+               <head>Another Epiſtle.</head>
+               <opener>
+                  <salute>SISTER;</salute>
+               </opener>
+               <l>ALthough that we ſo far aſſunder Are,</l>
+               <l>Yet of my Love thou truly haſt a Share:</l>
+               <l>For it is my Deſire thou may'ſt Enjoy</l>
+               <l>Both inward and outward Proſperity;</l>
+               <l>But of the two its better that thou Know,</l>
+               <l>Not outwardly but inwardly to Grow,</l>
+               <l>And feel a ſpringing up to Life Eternal,</l>
+               <l>So will thy Mind be kept from things External:</l>
+               <l>To know which Growth thou muſt inward Retire</l>
+               <l>To that which checks thee when thou doſt Aſpire:</l>
+               <l>O! there know thou a Center and a Stay;</l>
+               <l>For truly its the New and Living Way,</l>
+               <l>In which the Juſt Man walks; O there Abide,</l>
+               <l>To feel it ſeparate, and to Divide</l>
+               <l>All Good from Bad; for it doth Purifie</l>
+               <l>And purge the Heart from all Iniquitie:</l>
+               <l>Its this alone that makes the Heart Clean,</l>
+               <l>Refining it from every Spot and Stain:</l>
+               <l>This therefore do thou follow and Obey;</l>
+               <l>For as kept to thou canſt not go Aſtray:</l>
+               <l>To which I thee commend, as to a Tower,</l>
+               <l>To fly unto in every Tempting Hour.</l>
+               <l>So I conclude, deſiring that we Both</l>
+               <l>In it may lay up Treaſure from the Moth:</l>
+               <closer>
+                  <signed>William Sixmith.</signed>
+                  <date>1677.</date>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb n="23" facs="tcp:192334:11" rendition="simple:additions"/>
+               <l>NOthing more rare in this vain World I Find,</l>
+               <l>As for to know a ſolid ſerious M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd:</l>
+               <l>Its difficult to keep it center'd Down,</l>
+               <l>In that which doth bring Honour and Renown:</l>
+               <l>To have it ſtay'd and fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in the true Joy,</l>
+               <l>Its after this my panting Soul doth Cry;</l>
+               <l>To have it gather'd out of Earthly Things,</l>
+               <l>And have it plac'd in that where true Contentment Springs.</l>
+               <l>My Eye beholds the place where I would Be,</l>
+               <l>I would enjoy the ſame as well as See:</l>
+               <l>But I this Scripture do witneſs Fulfilling,</l>
+               <l>
+                  <hi>The Fleſh is Weak, but ah! the Spirit's Willing;</hi>
+               </l>
+               <l>Which makes me breath unto the Lord that I</l>
+               <l>May conquer that which doth me ſo Annoy,</l>
+               <l>That I might with the Apoſtle <hi>Paul</hi> thus Say,</l>
+               <l>
+                  <hi>Not I that live, but Chriſt that lives in Me.</hi>
+               </l>
+               <l>Here is the perfect holy <hi>Chriſtian</hi>'s State,</l>
+               <l>In which the Lord did <hi>Adam</hi> firſt Create:</l>
+               <l>For he created was to live to Him,</l>
+               <l>Not to the Fleſh, but to live without Sin:</l>
+               <l>O! if that he had kept that holy Station,</l>
+               <l>In which the Lord plac'd him in the Creation,</l>
+               <l>He had partook of that great Myſtery,</l>
+               <l>In which conſiſteth true Felicity.</l>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Letter of</hi> William Sixmith <hi>to</hi> J. D.</head>
+            <opener>
+               <salute>John Dunbabin;</salute>
+            </opener>
+            <p>I Do acknowledge thy Kindneſs in lending me <hi>John Cheyney</hi>'s Book; for when I heard of it, I had a deſire of reading it; but they were kept ſo cloſe, that I could not procure one of Ten Days after they came down; and when I got one it was but for two or three Hours, and that on the Market day; but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now have peruſed moſt of it, eſpecially the <hi>Praemonition to the Reader,</hi>
+               <pb n="24" facs="tcp:192334:12"/>and <hi>the Inſpection,</hi> &amp;c. as he calls them. It hath been my Deſire to try all things, and hold faſt that which is good: So the Truth in his Book I aſſent to; but by his Writings I perceive a <hi>Spirit</hi> of <hi>Perſecution</hi> to lodge in his Heart, incenſing the Civil Magiſtrate againſt us; Grudging our Proſperity, even ſtriving to Beſmeer us, which manifeſts him to be no Miniſter of <hi>Chriſt;</hi> neither ruled nor guided <hi>by his Spirit:</hi> and from an Envious, Lying Spirit do his Works proceed; and he beholds us with an Evil, Prejudicial Eye, which always looks aſquint. As for his <hi>Praemonition,</hi> its ſtuffed with ſeven Notorious Falſhoods, which he can never prove; more properly belonging to himſelf, than to the <hi>Quakers,</hi> from which I believe he cannot eaſily clear him<g ref="char:EOLhyphen"/>ſelf: His other Work being chiefly to ſpeak Evil of the Light of Chriſt Jeſus, even the Illumination of God's holy Spirit, cal<g ref="char:EOLhyphen"/>ling it <hi>Dagon,</hi> an <hi>Idol,</hi> a <hi>Blind and Deceitful Guide;</hi> making it guilty of all ſins, of <hi>Omiſſion</hi> and <hi>Commiſſion;</hi> comparing it to a <hi>Drunken Coach-man,</hi> ſaying, <hi>There is never a Soul in Hell, but may blame the Light within;</hi> with a great deal more Wicked, Ungodly Speeches; though in Contradiction of the ſame, he ſaith, in his Book called, <hi>Two Sermons of Hypocriſie,</hi> &amp;c. page 233. where thou mayſt read him praiſing the Light, cal<g ref="char:EOLhyphen"/>ling it, <hi>The Excellency of the Man;</hi> ſaying, <hi>The vileſt man by reaſon of this is of more price than all the World; which makes the Soul of man Superlatively</hi> pretious; <hi>by this it is capable to live Everlaſtingly in Heaven or in Hell: To ſpeak againſt this Light ſimply as ſuch, is to speak againſt God, the Author of it, and to undermine all Religion.</hi>
+            </p>
+            <p>Now let any moderate Perſon ſeriouſly conſider, whether he hath not Indicted himſelf, and is found guilty of Blaſphemy (for Blaſphemy ſignifies to <hi>Reproach, Revile</hi> or <hi>speak Evil of</hi>) And is it not before apparent, that he hath Reproached, Reviled and ſpoken Evil of the Light; and ſo is condemned out of his own Mouth to have ſpoken againſt God, the Author of it, and to un<g ref="char:EOLhyphen"/>dermine all Religion?</p>
+            <p>In page 100. of the ſame Book, he gives a very large Teſti<g ref="char:EOLhyphen"/>mony for us, ſaying, <hi>There is that in your Boſoms, more than Ten Thouſand Witneſſes:</hi> Now by the Mouth of two or three Witneſſes every thing is confirmed; but this he confeſſeth more
+<pb n="25" facs="tcp:192334:12" rendition="simple:additions"/>than Ten Thouſand: Surely <hi>this</hi> then may be believed and ap<g ref="char:EOLhyphen"/>proved. In theſe ſame two pages before quoted, he hath ſaid that which <hi>Overthrows</hi> all his Works: And in this pag. 100. beareth a very large Teſtimony to the <hi>Quakers</hi> Doctrine, which for bevity I tranſcribe not, but deſire thee ſeriouſly to peruſe it.</p>
+            <p>In his Advice to the <hi>Quakers,</hi> pag. 218. he entreats them <hi>To be earneſt in Prayer, and not to tarry till the Spirit move to Prayer, but when we have time and place convenient to provoke themſelves to Prayer,</hi> &amp;c. So he would have them take his Advice, contrary to the Apoſtle's Exhortation, <hi>Praying always with all Prayer and Supplication in the Spirit,</hi> Epheſ. 6.18. Alſo, its abſolutely con<g ref="char:EOLhyphen"/>trary to that poſitive Aſſertion of the holy Man in <hi>Rom.</hi> 8.26. <hi>We know not what to pray for as we ought, but the Spirit it ſelf maketh Interceſſion for us.</hi>
+            </p>
+            <p>So its not in him that wills, nor in him that runs; for the Lord heareth his own Spirit, and another Spirit he will not hear; Not that I thus write, that I diſown Prayer; for <hi>the Prayers of the Faithful avail much;</hi> and they know the Lord preparing the Evening and Morning Sacrifice; and ſo in his own time offer it up unto him, which he doth hear and anſwer; and theſe Prayers are amongſt us both in publick and in private, though he wicked<g ref="char:EOLhyphen"/>ly ſays contrary.</p>
+            <p>And though he inſinuates in pag. 241. <hi>That this Light was never intended to be ſufficient of it ſelf to Salvation;</hi> yet the Scrip<g ref="char:EOLhyphen"/>ture ſaith, that which was given for a Light, was given for <hi>Sal<g ref="char:EOLhyphen"/>vation to the Ends of the Earth,</hi> Iſa 49.6. Mat. 13.47.</p>
+            <p>As for his aſſerting, <hi>The Light goes down with the Soul into Hell, and being turned into a Self-tormenting Light;</hi> he can bring no Scripture to prove it; for we read, that the Talent the ſloathful Servant had given him, was commanded to be taken from him before that diſmal Sentence <hi>[Caſt him into utter Darkneſs]</hi> was pronounced againſt him, <hi>Mat.</hi> 25.8.</p>
+            <p>He owns this Light within ſhould be man's Guide, and is charged to watch over the Soul, but doth not; ſee his Book, <hi>Skirmiſh,</hi> pag. 13, &amp;c. Now where in Scripture doth any read that God gives any other Guide, any other Leader to Man<g ref="char:EOLhyphen"/>kind univerſally but Chriſt Jeſus? Oh, that he would conſider what he hath belched forth againſt the Son of God! For this I
+<pb n="26" facs="tcp:192334:13"/>am certain of that the <hi>Quakers</hi> preach no other Light then Chriſt Jeſus, the Light of the World, <hi>John</hi> 8.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. no other Spirit then the Spirit of God, <hi>a Meaſure or Manifeſtation of which is given to every one to profit withal,</hi> 1 Cor. 12.7. no other Grace then that which is in Chriſt Jeſus, 2 <hi>Tim.</hi> 2.1 and hath appeared to all men, <hi>Tit.</hi> 2.11. He hath not brought one Scrip<g ref="char:EOLhyphen"/>ture that will favour theſe groſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſertions of his before cited; he thinks <hi>Mat.</hi> 6.22, 23. makes ſomething to his purpoſe, which I ſhall tranſcribe; <hi>The Light of the Body is the Eye; if therefore thy Eye be ſingle, thy whole Body ſhall be full of Light; but if thine Eye be Evil, thy whole Body ſhall be full of Darkneſs: if therefore the Light that is in thee be Darkneſs, how great is that Darkneſs?</hi> From this Scripture he cannot make the Illumination of God's Spirit Darkneſs; for Chriſt here ſpeaketh of the Single Eye and the Evil Eye: for as it is written in <hi>Eccleſs.</hi> 2.14. <hi>The Wiſe Man's Eyes are in his Head, &amp;c. but the Fool's are in the Ends of the Earth,</hi> Prov. 17.24. There is a Single Eye, the Wiſe Man's Eye, which is in Chriſt, the Head; and the Evil Eye, the Fool's Eye, which is Darkneſs, and is in the Ends of the Earth: So there is a Diſtinction to be made betwixt the Eye, and that which opens or illuminates the Eye, which is the Spirit of God; and that which darkens and blinds the Eye, which is the Spirit of this World. But <hi>J<g ref="char:punc">▪</g> C.</hi> is in Confuſion and call Evil Good, and Good Evil; Light Darkneſs, and Darkneſ, Light; and plainly appears to be one of <hi>Babel</hi>'s Builders, who know: not Scripture-Expreſſions, or elſe quarrels with them becauſe the <hi>Quakers</hi> uſe them; witneſs his Cavil at the word <hi>[Meaſure]</hi> ſaying, <hi>God cannot be cut into Meaſures, Shreds or Pieces;</hi> when its a word the Apoſtle <hi>Paul</hi> much uſeth, look <hi>Epheſ.</hi> 4.7, 13. <hi>But un<g ref="char:EOLhyphen"/>to us is given Grace according to the</hi> Meaſure <hi>of the Gif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Chriſt. Till we all come in the <g ref="char:V">Ʋ</g>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of the Faith, and of the Knowledge of the Son of God, unto a perfect Man, unto the</hi> Meaſure <hi>of the Stature of the Fulneſs of Chriſt.</hi> Alſo <hi>John</hi> the <hi>Baptiſt</hi> ſpeaking of Chriſt, ſaith, <hi>God giveth not the Spirit by</hi> Meaſure <hi>unto him, John</hi> 3.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. plainly implying, that to others be giveth his Spirit by <hi>Meaſure,</hi> 2 Cor. 10.13, 14, 15. Epheſ. 4.16. And J. C. muſt either confeſs, that he hath not the Spirit of God, or that he hath it by <hi>Meaſure,</hi> or elſe in Fulneſs, which we read of none
+<pb n="27" facs="tcp:192334:13"/>but Chriſt that had; which if he affirm, he makes himſelf equal with Chriſt: if he hath not the Spirit, he is none of his: if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e owns it by <hi>Meaſure,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e owns the <hi>Quakers</hi> Doctrine: So under ſome of theſe cenſures he muſt needs fall; Read <hi>Rom.</hi> 13.3. with the other Scriptures, which I forbear writing at large.</p>
+            <p>J. C. i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to be pitied, if what he hath written be through ig<g ref="char:EOLhyphen"/>norance and blind zeal, and I wiſh that he hath not gone contra<g ref="char:EOLhyphen"/>ry to Knowledge, and that the Lord may open his Underſtand<g ref="char:EOLhyphen"/>ing, and of all that are ſimply led aſtray by him; for it is my Be<g ref="char:EOLhyphen"/>lief, that what he hath written againſt the Light will be more heavy than a Milſtone in the Day the Lord calls him to an Ac<g ref="char:EOLhyphen"/>count: O! that he could Repent and conſider: <hi>For its the Life of God, which is the Light of men, which ſhines in Darkneſs, and the Darkneſs comprehends it not,</hi> John 1.4, 5.</p>
+            <p>This is the Stone which <hi>J. C.</hi> rejects, which is become the Head of our Corner: This is the Stone of Stumbling, and Rock of Offence to <hi>J. C.</hi> which is become to us <hi>Elect</hi> and <hi>Pretious,</hi> and the very Rock of Salvation. Is he not in the Saints the <hi>Hope of Glory,</hi> a <hi>Comforter,</hi> a <hi>Saviour?</hi> And in the Wicked a <hi>Judge,</hi> a <hi>Condemner?</hi> I cannot but Admire that he ſhould withſtand ſuch Sound Doctrine, which the holy Scriptures do ſo fully declare.</p>
+            <p>
+               <hi>But no We<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon that is formed can proſper againſt them that have on the Armour of Light.</hi>
+            </p>
+            <closer>
+               <signed>William Sixmith.</signed>
+               <dateline>
+                  <hi>Warrington,</hi> 
+                  <date>the 23d of the 1ſt Moneth, 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="modern_bookplate">
+            <pb facs="tcp:192334:14"/>
+            <pb facs="tcp:192334:14"/>
+            <pb facs="tcp:192334:15" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>Swarthmore Hall FRIENDS HISTORI<g ref="char:EOLhyphen"/>CAL LIBRARY &amp; SWARTHMORE COLLEGE PENNSYLVANIA</head>
+                  <figDesc>bookplate of Swarthmore College Library</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
